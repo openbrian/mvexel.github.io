@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "The Facebook Effect"
-excerpt: "Read. 4/5"
+excerpt: "Finished reading The Facebook Effect by David Kirkpatrick. Here's a quick review."
 tags: [read]
 comments: false
+image: /images/facebook-effect.jpg
 ---
-
-![fbeffect](/images/facebook-effect.jpg)
 
 Just finished reading this.
 
@@ -17,3 +16,5 @@ I enjoyed reading about the early years of Facebook, especially the post-dorm-ro
 The unique level of access Kirkpatrick had to key people, combined with his extensive industry network as senior tech editor for Fortune, really elevates the book to a level of insight, especially in Mark Zuckerberg's personal convictions and struggles, that not many other authors could have achieved.
 
 Next up is 'Choose Yourself' by James Altucher. It feels self-helpy but I usually enjoy reading his insights on Quora and Medium, so what the heck. I am interested in hearing your reading tips!
+
+4/5
