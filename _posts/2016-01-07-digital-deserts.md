@@ -29,4 +29,9 @@ Of course there is no such even distribution. Because people tend to all go to t
 
 I am interested in the voids that this lemming behavior inevitably leaves. The flyover states of the internet. Where are they? What do people do there if not taking pictures and sharing them? Are they hiding in plain sight? How to negotiate the inherent moral dilemma of exposing them to the world, obliterating them?
 
+**UPDATE 1/7** [Keith Jenkins](https://twitter.com/kgjenkins) points out interesting work done on non-deserts:
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/mvexel">@mvexel</a> The voids are sanctuaries of respite.&#10;However the photo-dense areas lend themselves well to time-lapse viz: <a href="https://t.co/4H6YwHNPDX">https://t.co/4H6YwHNPDX</a></p>&mdash; Keith Jenkins (@kgjenkins) <a href="https://twitter.com/kgjenkins/status/685174110415155200">January 7, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 *Top image: "<a href="https://commons.wikimedia.org/wiki/File:AtacamaDesertByFrode.jpg#/media/File:AtacamaDesertByFrode.jpg">AtacamaDesertByFrode</a>" by <a href="//commons.wikimedia.org/w/index.php?title=User:Frodosleveland&amp;action=edit&amp;redlink=1" class="new" title="User:Frodosleveland (page does not exist)">Frodosleveland</a> - <span class="int-own-work" lang="en">Own work</span>. Licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a> via <a href="https://commons.wikimedia.org/wiki/">Commons</a>.*
