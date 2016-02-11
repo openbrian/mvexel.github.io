@@ -9,7 +9,7 @@ image:
 
 Salt Lake City, where we live, is part of an urban area called the Wasatch Front. It stretches roughly 30 miles to the north and south of Salt Lake City. In the 1950s, 500 thousand people lived in this area. These days, it is 2 million, more than two thirds of all the people in Utah.
 
-<video width="700" autoplay loop>
+<video width="100%" autoplay loop>
   <source src="https://diary-image-hosting.s3.amazonaws.com/Screenshot%202016-01-23%2015.08.20.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -36,7 +36,7 @@ I was out for 2 1/2 hours and I saw three other people.
 
 I was only 15 minutes from home. Less than 3 miles from two busy freeways. And this is what I see and hear:
 
-<video width="700" controls loop>
+<video width="100%" controls loop>
   <source src="https://diary-image-hosting.s3.amazonaws.com/DSCF9276.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
