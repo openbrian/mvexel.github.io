@@ -38,5 +38,5 @@ The box 2 and 3 emails I flag, and I respond to them later in the day, in my sec
 * I do not get any email notifications. My email program only runs while I am dealing with email. My phone has notifications disabled.
 * I remove everything I dealt with from my inbox right away.
 * People are great at making things sound urgent. Email programs support this behavior by letting folks mark messages as 'important'. This does not affect how I treat that particular email.
-* More than 80% of problems / crisis go away by just letting time pass. Know that a lot of people deal with problems by emailing as many people as they can about it and hoping that they can make one of those people will make it their problem. Do not fall for it.
+* More than 80% of problems / crisis go away by just letting time pass. Know that a lot of people deal with problems by emailing as many people as they can about it, hoping that one of those people will make it their problem. Do not fall for it.
 * Email programs let you filter email. You can use that to help you sort through email much, much faster. For example, I filter any email with more than 3 addressees, as well as anything where I am in the CC list, to the bottom of the pile.
