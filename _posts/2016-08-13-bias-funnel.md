@@ -1,0 +1,26 @@
+---
+layout: post
+title: "The bias funnel"
+excerpt: "We like what we like what we like"
+tags: [idea]
+comments: false
+image: 
+---
+
+When I pick up a newspaper or a magazine at a newsstand, it will be exactly the same thing as the person who bought that same paper or magazine before me. The six o'clock news I watch is exactly the same newscast that millions of others watch at the same time. When tuned into the same source, we are all exposed to the same information.
+
+Or, we used to be.
+
+WIRED reporter Mat Honan did a [simple two-day experiment](http://www.wired.com/2014/08/i-liked-everything-i-saw-on-facebook-for-two-days-heres-what-it-did-to-me/) in 2014. He liked everything he came across in his Facebook feed for 48 hours. After only an hour, his news feed had morphed into an ocean of clickbait. Because that was what Facebook had decided based on what he liked. A day in, his feed had become extremely polarized, "a temple of provocation. Just as my News Feed had drifted further and further right, so too did it drift further and further left. Rachel Maddow, Raw Story, Mother Jones, Daily Kos and all sort of other leftie stuff was interspersed with items that are so far to the right I’m nearly afraid to like them for fear of ending up on some sort of watch list."
+
+Normal people do not do this. They like what they like, and Facebook, as well as other big chunks of the internet, know this and feed on it. Every time you click the little blue *thumbs up*, Facebook gets a little smarter. Even when you are not on Facebook, it learns by observing what you do. So do other platforms. (A little browser extension called Ghostery lets you see exactly who is learning about you.)
+
+None of this is new, and it has been pretty thoroughly [documented](http://bits.blogs.nytimes.com/2011/09/27/as-like-buttons-spread-so-do-facebooks-tentacles). Your habits and preferences have become the de facto currency with which you pay for everything you do on the internet: "If you are not paying for a product, you **are** the product." This statement has met with [some criticism](http://powazek.com/posts/3229), but it generally captures the value exchange in online services well.
+
+If I give you $20, you will have an immediate notion of its value. Lunch for two. A pair of pants. Groceries for a couple days. No thinking required. Not so for the currency we use to pay for the free internet. We have no intrinsic sense of the value of our habits, preferences and desires as harvested by the social networking platforms. We do not know how much we are paying. (You can get a sense by looking at Facebook's earnings, which [suggest that one user is worth on average around $15/y to them](https://www.theguardian.com/technology/2016/jan/28/how-much-are-you-worth-to-facebook).) That makes it very hard to make an informed decision about 'aqcuiring' a service on the internet. Perhaps *leasing* or *renting* are better terms, because 1) you never get to own the service or even your own data after you put it into the system and 2) you keep paying until you stop using the service.
+
+Mat Honan's 2014 experiment suggests that there is another dimension that further obfuscates the price we pay for free (as in no monetary transaction involved) services. As he showed, your harvested behaviors and decisions inform what the output of that service will be for you in the future. This is not only true for Facebook. Amazon not only prominently shows you things you are likely to buy based on past purchases, it also shows different prices to different people based on their knowledge about you. Google prioritizes search results based on your past behavior and the profile it built about you.
+
+The end result of this 'smarter' internet is a **bias funnel**. The spectrum of information we are exposed to narrows as we peruse that information, as it becomes ever more tailored to reinforce beliefs and biases we already have. The bias funnel helps create what Peter Pomerantsev calls, in [a recent masterful essay](https://granta.com/why-were-post-fact/), a 'post-truth' society, where the objective truth matters less, and becomes harder to find, while our personalized information feed contains more and more of what we prefer to hear and expect to see, and it becomes our own personal truth.
+
+While some of the ramifications of the bias funnel are as mundane as the [emergence of a global coffee shop aesthetic](http://www.theverge.com/2016/8/3/12325104/airbnb-aesthetic-global-minimalism-startup-gentrification) of  distressed wood and exposed brick, others are much more far-reaching and urgent. The current U.S. presidential election cycle has departed from the traditional, and appropriate, theatre of policy and strategy, and has taken the shape of a schoolyard brawl where verifiable truths are out the window, replaced by share-sized nuggets of suggestion, designed to quickly cascade into a torrent of misinformation that nourish polarization and vanquish our collective readiness to stop and listen, understand, and consider ideas that we would not necessarily respond to with a click on the *like* button.
