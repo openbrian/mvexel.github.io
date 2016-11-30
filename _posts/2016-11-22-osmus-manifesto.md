@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Here is how I failed in 2016. And why I should be on the OSM US board in 2017."
-excerpt: "My manifesto for the 2016 OSM US board elections"
+title: "OpenStreetMap US board election manifesto"
+excerpt: "Here is how I failed in 2016. And why I should be on the OSM US board in 2017."
 tags: [osm, elections, board]
 comments: false
 ---
