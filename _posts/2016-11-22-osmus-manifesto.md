@@ -33,7 +33,9 @@ Encouraging companies to publish more useful tools proved to be an easier 'promi
 In an attempt to learn from this and scratching an existing itch or two while I do so, here's a revised laundry list for 2017:
 
 * Create a great small grants program that mappers can use to build their local communities. Advertise it. Report back on how the grants are being used.
+* More broadly, define the benefits of being a mamber of the OSM US organization better.
 * Build a new web site that can be a true community hub. Get professional help so we can make it great.
+* Become an official Chapter of the Foundation. I would like to evaluate the benefits of this against any constraints / limitations this imposes on us as OSM US to independently pursue our own local goals.
 * Be available. That seems obvious but is easily overlooked. I want to be there for everyone with the help, encouragement, mediation, and in whatever other way I can support you.
 
 It may sound as if I want to do these things on my own. I don't and I can't. I am looking forward to a new term on the board where we can collaborate to reach the goals we set together. I merely hope that this statement may inform those common goals, and give you, the voting members of OSM US, a reason to (not) vote for me. Regardless of the outcome, I will continue to serve the OSM community in any way I can. Be well, map, and vote!
